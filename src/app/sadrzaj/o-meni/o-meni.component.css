@@ -1,0 +1,21 @@
+.o_meni_polozaj{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.text_1{
+    text-decoration: none !important;
+    color: rgb(39, 88, 145);
+    font-family: 'Source Sans Pro'; 
+    font-size: 20px;
+    text-align: left;
+}
+
+.text_2{
+    text-decoration: none !important;
+    color: rgb(3, 62, 129);
+    font-family: 'Source Sans Pro'; 
+    font-size: 20px;
+    text-align: left;
+}
+

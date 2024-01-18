@@ -1,0 +1,18 @@
+.zaglavlje-polozaj{
+    margin-bottom: 1% ;
+    width: 100%;
+}
+
+.zaglavlje_pozadina{
+    background:rgb(127, 184, 249);
+}
+
+.sadrzaj_pozadina{
+    background:rgb(158, 202, 250);
+}
+
+.sadrzaj-polozaj{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 1% ;
+}
